@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 public class Main {
 
-	//главный метод класса
+//РіР»Р°РІРЅС‹Р№ РјРµС‚РѕРґ РєР»Р°СЃСЃР°
 		public static void main(String[] args) {
 			
 
