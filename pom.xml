@@ -6,9 +6,9 @@
   <name>unit_tusur</name>
 
 <properties>
-     <selenium.version>4.3.0</selenium.version>
-     <junit.version>5.7.1</junit.version>
-     <junit-platform.version>1.7.1</junit-platform.version>
+     <selenium.version>4.8.1</selenium.version>
+     <junit.version>5.9.2</junit.version>
+     <junit-platform.version>1.9.2</junit-platform.version>
      <allure.maven.version>2.12.0</allure.maven.version>
      <allure.junit5.version>2.21.0</allure.junit5.version>
      <aspectj.version>1.9.9.1</aspectj.version>
@@ -115,8 +115,6 @@
       <configuration>
       <reportVersion>2.21.0</reportVersion>
       <allureDownloadURL>https://github.com/allure-framework/allur2/releases/tag/2.21.0/allure-2.21.0.zip</allureDownloadURL>
-      <reportDirectory>${basedir}/target/allure-report</reportDirectory>
-      <resultsDirectory>${basedir}/target/allure-results</resultsDirectory>
       </configuration>
     </plugin>
   </plugins>
